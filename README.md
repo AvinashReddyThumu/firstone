@@ -1,4 +1,4 @@
-🐼 Hi,AVINASH here ....👋🏻
+#🐼 Hi,AVINASH here ....👋🏻
  <hr style="border:1px solid #ccc;">
 Keen to learn the new interesting stuff ,currently learning Pyhton and DSA
 
@@ -6,7 +6,7 @@ I'm just a beginner...do u watch "ANIME" ?
 
  <hr style="border:1px solid #ccc;">
  
-🖥️ Tech Stack:
+#🖥️ Tech Stack:
    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +17,7 @@ I'm just a beginner...do u watch "ANIME" ?
                         
  <hr style="border:1px solid #ccc;">
  
-🌏 Can Text me  or Get me Through 👇🏻
+##🌏 Can Text me  or Get me Through 👇🏻
 
    💼 GitHub: https://github.com/reddy_here
    
@@ -25,7 +25,7 @@ I'm just a beginner...do u watch "ANIME" ?
    
  <hr style="border:1px solid #ccc;">
  
-💫-Crazy Fact:
+###💫-Crazy Fact:
     
     Give it a try--at worst case u will learn  a new stuff 
                     if it works out ,it gives a confidence
