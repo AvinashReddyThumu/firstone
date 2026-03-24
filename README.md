@@ -1,6 +1,6 @@
-# 🐼 Hi, I'm Avinash 👋🏻
+# 🐼 Hi, I'm Avinash here... 👋🏻
 
-💡 Keen to learn new and interesting things
+💡 Keen to learn new and interesting stuff out there 
 
 📚 Currently learning **Python & Data Structures**
 
@@ -31,7 +31,6 @@
 > Give it a try — at worst, you’ll learn something new.
 >                 If it works, it builds confidence 🚀
 
-<hr style="border:1px solid #ccc;">
 
                   
 
