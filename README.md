@@ -1,7 +1,10 @@
 🐼 Hi,AVINASH here ....👋🏻
+ <hr style="border:1px solid #ccc;">
 Keen to learn the new interesting stuff ,currently learning Pyhton and DSA
 I'm just a beginner...do u watch "ANIME" ?
-- <hr style="border:1px solid #ccc;">
+
+ <hr style="border:1px solid #ccc;">
+ 
 🖥️ Tech Stack
     ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
         ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -9,12 +12,18 @@ I'm just a beginner...do u watch "ANIME" ?
                ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
                     ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
                         ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- <hr style="border:1px solid #ccc;">
+                        
+ <hr style="border:1px solid #ccc;">
+ 
 🌏 Can Text or Get me Trough 👇🏻
+
    💼 GitHub: https://github.com/YOUR_USERNAME
+   
    📧 Email: your-email@example.com
-- <hr style="border:1px solid #ccc;">
+   
+ <hr style="border:1px solid #ccc;">
+ 
 💫-Crazy Fact
     Give it a try--at worst case u will learn  a new stuff 
                     if it works out ,it gives a confidence
-- <hr style="border:1px solid #ccc;">
+
