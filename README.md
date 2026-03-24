@@ -23,7 +23,9 @@ I'm just a beginner...do u watch "ANIME" ?
    
  <hr style="border:1px solid #ccc;">
  
-💫-Crazy Fact
+💫-Crazy Fact:
+    
     Give it a try--at worst case u will learn  a new stuff 
                     if it works out ,it gives a confidence
+                  
 
