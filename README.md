@@ -18,9 +18,9 @@ I'm just a beginner...do u watch "ANIME" ?
  
 🌏 Can Text or Get me Trough 👇🏻
 
-   💼 GitHub: https://github.com/YOUR_USERNAME
+   💼 GitHub: https://github.com/reddy_here
    
-   📧 Email: your-email@example.com
+   📧 Email: avinashreddythumu36@gmail.com
    
  <hr style="border:1px solid #ccc;">
  
