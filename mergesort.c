@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+void merge(int a[],int l,int m,int r){
+    int i=l,j=m+1,k=l,temp[50];
+    while(i<=m && j<=r){
+        if(a[i]<a[j])
+            temp[k++]=a[i++];
+        else
+            temp[k++]=a[j++];
+    }
+    while(i<=m)
+        temp[k++]=a[i++];
+    while(j<=r)
+        temp[k++]=a[j++];//if any efficient way was found,pls change it
+    for(i=l;i<=r;i++)
+        a[i]=temp[i];
+}
+void mergesort(int a[],int l,int r){
+    if(l<r){
+        int m=(l+r)/2;
+        mergesort(a,l,m);
+        mergesort(a,m+1,r);
+        merge(a,l,m,r);
+    }
+}
