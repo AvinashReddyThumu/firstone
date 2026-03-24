@@ -1,10 +1,7 @@
 # 🐼 Hi, I'm Avinash 👋🏻
 
-<hr style="border:1px solid #ccc;">
-
 💡 Keen to learn new and interesting things
 📚 Currently learning **Python & Data Structures**
-
 🎯 I'm just a beginner... btw, do you watch *anime*? 👀
 
 <hr style="border:1px solid #ccc;">
@@ -20,7 +17,7 @@
 
 <hr style="border:1px solid #ccc;">
 
-## 🌏 Connect With Me
+## 🌏 You can connect me through 👇🏻
 
 
 💼 GitHub: https://github.com/reddy_here
