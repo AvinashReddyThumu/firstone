@@ -17,7 +17,7 @@ I'm just a beginner...do u watch "ANIME" ?
                         
  <hr style="border:1px solid #ccc;">
  
-🌏 Can Text or Get me Trough 👇🏻
+🌏 Can Text me  or Get me Through 👇🏻
 
    💼 GitHub: https://github.com/reddy_here
    
