@@ -1,10 +1,10 @@
 # 🐼 Hi, I'm Avinash 👋🏻
 
 💡 Keen to learn new and interesting things
-📚 Currently learning **Python & Data Structures**
-🎯 I'm just a beginner... btw, do you watch *anime*? 👀
 
-<hr style="border:1px solid #ccc;">
+📚 Currently learning **Python & Data Structures**
+
+🎯 I'm just a beginner... btw, do you watch *anime*? 👀
 
 ## 🖥️ Tech Stack
 
