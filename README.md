@@ -1,4 +1,4 @@
-# 🐼 Hi, I'm Avinash here... 👋🏻
+# 🐼 Hi, It's Avinash here... 👋🏻
 
 💡 Keen to learn new and interesting stuff out there 
 
