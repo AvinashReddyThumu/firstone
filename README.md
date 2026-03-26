@@ -28,8 +28,7 @@
 
 ## 💫 Crazy Fact
 
-> Give it a try — at worst, you’ll learn something new.
-> 
+>Give it a try — at worst, you’ll learn something new.
 >                 If it works, it builds confidence 🚀
 
 
